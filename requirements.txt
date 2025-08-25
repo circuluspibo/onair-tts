@@ -1,0 +1,8 @@
+uvicorn
+openvino
+scipy
+num2words
+epitran
+torch # check if torch is needed in requirements.txt
+pykakasi
+g2pk2
